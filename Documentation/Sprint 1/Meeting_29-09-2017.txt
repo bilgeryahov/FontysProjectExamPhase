@@ -1,0 +1,4 @@
+Create repos for the micro-services (run in Docker containers), repo for the mobile app (Xamarin).
+Host the web application a.k.a. the static files on github pages.
+Docker containers will be run on Azure virtual machine.
+Setup web app with the npm package create-react-app.
