@@ -1,0 +1,10 @@
+Goods:
+1) Good job Coen with the CI,
+2) Well done to Nikola with setting up the React project,
+3) Qyute nice progress, even though we didn't burn ourselves from work,
+4) Nice planning and workflow
+
+To be improved:
+1) We did not think about the project plan,
+2) We forgot to discuss risk analysis,
+3) We might think about supporting each other while having a discussion with client/teacher
