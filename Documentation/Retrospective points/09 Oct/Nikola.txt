@@ -1,0 +1,4 @@
+Points to consider:
+	Written justification for changes in the project plan.
+	Keep track of the project plan and any changes to it.
+	Verify the demo before presentation day.
