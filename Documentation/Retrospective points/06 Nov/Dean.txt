@@ -1,0 +1,7 @@
+Good
++ Everything is done on time
++ Everyine contributes on something
+
+Need to Improve
+- A bit lack of knowledge transfer. I understand, everyone is focus on their task.
+- Personally, I don't reall understand how the Android and IOS App works. Because, I'm still struggling to learn React JS and Implementing the Player.

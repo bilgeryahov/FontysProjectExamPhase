@@ -1,0 +1,7 @@
+Pros:
+	Work was completed in time.
+	All problems were tackled.
+
+Cons:
+	Better distribution and planning, concerning the work load
+	Possibility to extend the sprint with one week maximum, if there is no time to finish a deliverable.

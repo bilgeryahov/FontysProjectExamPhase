@@ -1,0 +1,6 @@
+Pros:
+	MVP (Minimal Viable Product) was done on time.
+	Very fast switching of technologies.
+	Quickly founding solutions to problems.
+Cons:
+	Trying multiple technologies could have been avoided if we have done a more detailed research.
