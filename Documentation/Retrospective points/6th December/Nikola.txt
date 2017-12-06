@@ -1,0 +1,8 @@
+Cons:
+ - Planned too much tasks.
+ - Almost nothing shown to the teacher/client
+ 
+Pros:
+ - Managed to finish some core deliverables.
+ - Team building
+ - Pair programming with Coen
