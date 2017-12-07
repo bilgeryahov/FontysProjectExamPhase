@@ -1,0 +1,12 @@
+Good points:
+1. We had the team building event.
+2. We had some nice pair programming.
+3. Thanks everyone for providing information for the "Hand-in" document.
+4. Good demo.
+5. Erik is happy.
+
+Points to improve:
+1. More pair programming.
+2. Why does the work need to be finished on the last moment?
+3. Not much demoable stuff?
+4. Not working docker on my env...
